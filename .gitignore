@@ -4,3 +4,8 @@ practice/.cph/
 contest/.cph/
 build
 .vscode/
+# */Makefile
+practice/a.out
+contest/a.out
+contest/*.bin
+practice/*.bin
