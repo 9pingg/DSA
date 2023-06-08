@@ -1,0 +1,31 @@
+Data Type              Maximum Power of 2          Minimum Power of 2    Bytes
+-----------------------------------------------------------------------------
+signed char            2^7 - 1 = 127               -2^7 = -128           1
+unsigned char          2^8 - 1 = 255               0                     1
+signed short           2^15 - 1 = 32767            -2^15 = -32768        2
+unsigned short         2^16 - 1 = 65535            0                     2
+signed int             2^31 - 1 = 2147483647       -2^31 = -2147483648   4
+unsigned int           2^32 - 1 = 4294967295       0                     4
+signed long            2^31 - 1 = 2147483647       -2^31 = -2147483648   4 or 8
+unsigned long          2^32 - 1 = 4294967295       0                     4 or 8
+signed long long       2^63 - 1 = 9223372036854775807  -2^63 = -9223372036854775808  8
+unsigned long long     2^64 - 1 = 18446744073709551615  0                   8
+float                  Varies                      Varies                4
+double                 Varies                      Varies                8
+
+int = 2*10^9
+long long = 5*10^18
+
+Q - long and int
+long and int generally have the same size of 4 bytes in most systems. 
+acc to standard, int is at least 16 bit, and long is at least 32 bit. So depending on the system, it's possible that they're the same size (they could both be 32 bit), or they could be of different sizes.
+
+Q - signed and unsigned
+all data_types are signed by default, If you specifically want an unsigned integer type, 
+you can use the unsigned int type instead. For example, unsigned int a;
+
+range of n bit signed data_type = -2^(n-1) to 2^(n-1) -1
+range of n bit unsigned data_type = 0 to 2^(n-1) -1
+example: 
+signed int = -2^31 to 2^31 - 1
+unsigned int = 0 to 2^32 - 1 
