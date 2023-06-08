@@ -1,0 +1,32 @@
+{
+	"Print to console": {
+		"prefix": "log",
+		"body": [
+			"console.log('$1');",
+			"$2"
+		],
+		"description": "Log output to console"
+	},
+	"start": {
+		"prefix": "start",
+		"body": [
+			"#include <bits/stdc++.h>",
+			"using namespace std;\n",
+			"#define MOD 1e9 + 7",
+			"#define INF 1e18",
+			"#define int long long",
+			"\nvoid fastIO() {\n\tios_base::sync_with_stdio(false);\n\tcin.tie(NULL);\n}\n\n",
+			"int32_t main() {",
+			"\tfastIO();",
+    		"\tint t;",
+    		"\tcin >> t;",
+    		"\twhile(t--){",
+			"\t\t$0",
+			"\t}",
+			"\treturn 0;",    
+        	"}"    
+		],
+		"description": "start with bits header file"
+	}
+
+}
