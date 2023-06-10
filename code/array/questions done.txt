@@ -1,0 +1,6 @@
+check array is sorted
+https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/
+
+Find Second Smallest and Second Largest Element in an array
+https://takeuforward.org/data-structure/find-second-smallest-and-second-largest-element-in-an-array/
+

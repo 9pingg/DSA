@@ -48,8 +48,9 @@ void seive(long long n){
         if (prime[p]){
             // basically all multiples of a prime number are not prime. so if p = 2
             // then set 2 + 2, 2+2+2, .. so on as not prime.
-            for(long long i = p * p ; i <= n ; i += p){
-                prime[i] = 0;
+            for(long long i = p * p ; i <= n ; i += p){ // why start from p *p  not from p + p because when p = 2
+                prime[i] = 0;                           // it automatically sets all of its mutiples to not prime
+                                                        // so if we start from p + p which is 2*p it would already be non prime no need to start from here.
             }
         }
     }
