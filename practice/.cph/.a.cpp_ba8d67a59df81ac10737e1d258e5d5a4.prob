@@ -1,1 +1,0 @@
-{"name":"Local: a","url":"/Users/vedan/Desktop/cpp/practice/a.cpp","tests":[{"id":1685954691516,"input":"5\n2 4 7 8 10\n","output":"3\n"},{"id":1685954737781,"input":"4\n1 2 1 1\n","output":"2\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/vedan/Desktop/cpp/practice/a.cpp","group":"local","local":true}

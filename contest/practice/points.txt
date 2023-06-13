@@ -1,0 +1,11 @@
+For solving problems with rating 800 − 1099, students will be awarded 0 points. Problems rated 1100 − 1299
+carry 1 point, those rated 1300 − 1499 carry 2 points and so on. 1500-1699 3 1700-1899 4
+
+pratice:
+2 + 3 + 4 + 1 + 2 + 2 = 14/50 10% 
+
+div2:
+450 = 450/3000 20%
+
+div3:
+3  + 2 = 5/10 20%

@@ -1,6 +1,22 @@
-check array is sorted
+1)check array is sorted (redo, maintain counter for change state)
 https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/
 
-Find Second Smallest and Second Largest Element in an array
+2)Find Second Smallest and Second Largest Element in an array
 https://takeuforward.org/data-structure/find-second-smallest-and-second-largest-element-in-an-array/
 
+3)sort colors
+
+
+4) rotate array K positions right
+https://leetcode.com/problems/rotate-array/description/
+
+5) all zeroes at end (hard) (do again)
+https://leetcode.com/problems/move-zeroes/description/ 
+
+6) union of 2 sorted arrays into a array with no duplicates (hard)
+https://practice.geeksforgeeks.org/problems/union-of-two-sorted-arrays-1587115621/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=union-of-two-sorted-arrays
+
+7) intersection of array (easy)
+https://www.codingninjas.com/codestudio/problems/intersection-of-2-arrays_1082149
+
+8)
