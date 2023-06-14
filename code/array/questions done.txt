@@ -30,3 +30,10 @@ https://www.codingninjas.com/codestudio/problems/longest-subarray-with-sum-k_571
 
 11) 2sum (map)
 https://www.youtube.com/watch?v=UXDSeD9mN-k&list=PLgUwDviBIf0rENwdL0nEH0uGom9no0nyB&index=5&ab_channel=takeUforward
+
+12) 3sum (map)
+
+13) majority element (floor(n/2)) (MOORE'S VOTING ALGORITHM )
+https://leetcode.com/problems/majority-element/
+
+14) Kadane's Algorithm (MAX SUBARRAY SUM) (IMP) 
