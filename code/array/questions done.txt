@@ -19,4 +19,14 @@ https://practice.geeksforgeeks.org/problems/union-of-two-sorted-arrays-158711562
 7) intersection of array (easy)
 https://www.codingninjas.com/codestudio/problems/intersection-of-2-arrays_1082149
 
-8)
+8) single number (there is only 2 single number rest have count 2 find number) (xor)
+https://leetcode.com/problems/single-number/description/
+
+9) missing number (n numbers given which are from [0,n], so 1 is misisng here as size([0,n]) is n+1 so find that number) (xor)
+https://leetcode.com/problems/missing-number/description/
+
+10) Longest Subarray with sum K (subarray is contigous part of an array it is diff from subsequence, which is not contiguos but maintains the same order as org array)
+https://www.codingninjas.com/codestudio/problems/longest-subarray-with-sum-k_5713505?utm_source=youtube&utm_medium=affiliate&utm_campaign=striver_Arrayproblems
+
+11) 2sum (map)
+https://www.youtube.com/watch?v=UXDSeD9mN-k&list=PLgUwDviBIf0rENwdL0nEH0uGom9no0nyB&index=5&ab_channel=takeUforward
