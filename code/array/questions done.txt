@@ -47,3 +47,20 @@ https://leetcode.com/problems/rearrange-array-elements-by-sign/description/
 
 17) rectangle array (IMPORTANT HARD QUES)
 https://leetcode.com/problems/rectangle-overlap/description/
+
+18) next permutation (FIND PIVOT, SWAP, REVERSE) (REDO)
+https://leetcode.com/problems/next-permutation/description/
+
+19) set matrix 0 (HARD) (MATRIX)
+https://leetcode.com/problems/set-matrix-zeroes/editorial/
+
+20) Longest Consecutive Sequence (hashing but not obv) (SEQ not equal to subarray)
+https://leetcode.com/problems/longest-consecutive-sequence/description/
+
+21) Subarray Sum Equals K
+https://leetcode.com/problems/subarray-sum-equals-k/description/
+
+22) rotation image (memorize this) (reverse than take symm basically swap elements) (check loop conditions)
+https://leetcode.com/problems/rotate-image/
+
+23) Spiral matrix (HARD QUES) (REDO) (res.size() < m*n)

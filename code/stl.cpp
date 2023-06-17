@@ -181,7 +181,7 @@ void using_sets(){ // insert, erase, find all logn if unordered
 	printUnorderedSet(s);
 	auto it = s.find(1);
 	if(it != s.end()){
-		s.erase(it);
+		s.erase(it); // deleting iterator takes O(1)
 	}
 	else{
 		cout << "# the element is not in the set" << endl;

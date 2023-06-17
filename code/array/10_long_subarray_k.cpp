@@ -32,6 +32,9 @@ int longestSubarrayWithSumK(vector<int> a, long long K) {
         for(int i = 0 ; i < N; i++){
             prefix_sum += a[i];
             if(prefix_sum == K) len = max(len, i+1);
+            //WHY DO U ONLY UPDATE WHEN we dont have prefix sum lets suppose we update prefix sum at pos 0, 
+            //and then have the same value of prefix sum so here we will update the value written at pos 0, this 
+            //would dec the length of subarray as it increases the index position.
             if(!mp.count(prefix_sum)) mp[prefix_sum] = i; // store prefix sum and index, only if it doesnt exist VERY IMP IF INPUT HAS 0 VAL
             auto it = mp.find(prefix_sum - K); // find p_sum such that p_sum_now - p_sum = K
             if(it!=mp.end()){
