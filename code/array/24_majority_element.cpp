@@ -12,7 +12,7 @@ vector<int> majorityElement(vector<int>& nums) {
         return res;
     }
 
-//optimal apraoch is again based on moore voting algo just like in majority element n/2
+//optimal aproach is again based on moore voting algo just like in majority element n/2
 // ques: it asks use to give integers whose freq > floor(n/3). so ques comes who many such integer could exist.
 // answer: at max 2 can exist because freq1 + freq2> floor(n/2) so they would cover more than 50% of the array no space
 // for a third majority element.
