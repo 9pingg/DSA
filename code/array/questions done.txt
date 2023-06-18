@@ -64,3 +64,6 @@ https://leetcode.com/problems/subarray-sum-equals-k/description/
 https://leetcode.com/problems/rotate-image/
 
 23) Spiral matrix (HARD QUES) (REDO) (res.size() < m*n)
+https://leetcode.com/problems/spiral-matrix/description/
+
+24) majority element (n/3) (moore voting law, just like n/2) 
