@@ -57,7 +57,7 @@ https://leetcode.com/problems/set-matrix-zeroes/editorial/
 20) Longest Consecutive Sequence (hashing but not obv) (SEQ not equal to subarray)
 https://leetcode.com/problems/longest-consecutive-sequence/description/
 
-21) Subarray Sum Equals K
+21) count Subarray Sum Equals K
 https://leetcode.com/problems/subarray-sum-equals-k/description/
 
 22) rotation image (memorize this) (reverse than take symm basically swap elements) (check loop conditions)
@@ -67,3 +67,16 @@ https://leetcode.com/problems/rotate-image/
 https://leetcode.com/problems/spiral-matrix/description/
 
 24) majority element (n/3) (moore voting law, just like n/2) 
+https://leetcode.com/problems/majority-element-ii/
+
+25) count Subarrays with XOR ‘K’ (SAME VARIATION OF COUNT SUBARRAY WITH SUM K) (NICE QUES)
+https://www.codingninjas.com/codestudio/problems/subarrays-with-xor-k_6826258
+
+26) pascal triangle 3 questions (r-1Cc-1) (3 ques)
+https://leetcode.com/problems/pascals-triangle/description/
+
+27) missing and duplicate number (MATH INVOLVED) (generally to find duplicate number, we use math not xor)
+https://www.codingninjas.com/codestudio/problems/missing-and-repeating-numbers_6828164
+
+28) Find Subarrays of length 2 With Equal Sum (easy) (not in sheet)
+https://leetcode.com/problems/find-subarrays-with-equal-sum/description/
