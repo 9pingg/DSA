@@ -35,3 +35,21 @@ UNBOUNDED KNAPSACK
 LONGEST COMMON SUBSEQUENCE
     3) longest common subsequence, return the length of the lcs (no printing) (all 3 approach)
     https://leetcode.com/problems/longest-common-subsequence/description/
+
+    3.1) longest common substring (return length) (subsequence vs subarray/substring)
+    https://www.geeksforgeeks.org/longest-common-substring-dp-29/
+    https://leetcode.com/problems/maximum-length-of-repeated-subarray/description/ (THIS HAS 2 NUM ARRAY INSTEAD OF STRINGS)
+
+    3.2) print the longest common subsequence
+    https://practice.geeksforgeeks.org/problems/print-all-lcs-sequences3413/
+
+    3.3) length of supersequence (return length)
+    https://practice.geeksforgeeks.org/problems/shortest-common-supersequence0322
+
+    3.4) min deletions to make two string equal (easy) (basically make both the strings eq to LCS)
+    https://leetcode.com/problems/delete-operation-for-two-strings/description/
+
+    3.5) min deletions and insertions to make string equal (find both) (basically the same version of prev ques)
+    https://practice.geeksforgeeks.org/problems/minimum-number-of-deletions-and-insertions0209
+
+    3.6) 
