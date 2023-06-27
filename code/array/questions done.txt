@@ -80,3 +80,6 @@ https://www.codingninjas.com/codestudio/problems/missing-and-repeating-numbers_6
 
 28) Find Subarrays of length 2 With Equal Sum (easy) (not in sheet)
 https://leetcode.com/problems/find-subarrays-with-equal-sum/description/
+
+29) Maximum Product Subarray
+https://leetcode.com/problems/maximum-product-subarray/description/

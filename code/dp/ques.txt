@@ -73,4 +73,18 @@ LONGEST COMMON SUBSEQUENCE
 
 
 MATRIX CHAIN MULTIPLCIATION
-    4) matrix chain multiplication (hard) (redo)
+    4.1) matrix chain multiplication (hard) (redo) O(n^3)
+    https://practice.geeksforgeeks.org/problems/matrix-chain-multiplication0303
+
+    4.2) Palindrome Partitioning
+    https://leetcode.com/problems/palindrome-partitioning/
+
+    4.3) egg drop (memo with linear search gives tle) (binary search)
+    https://leetcode.com/problems/super-egg-drop
+
+striver sheet questions
+    5.1) Minimum Path Sum
+    https://leetcode.com/problems/minimum-path-sum/
+
+    5.2) unique paths
+    https://leetcode.com/problems/unique-paths/description/
