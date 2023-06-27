@@ -52,4 +52,25 @@ LONGEST COMMON SUBSEQUENCE
     3.5) min deletions and insertions to make string equal (find both) (basically the same version of prev ques)
     https://practice.geeksforgeeks.org/problems/minimum-number-of-deletions-and-insertions0209
 
-    3.6) 
+    3.6) Palindrome ques start, check palindrome (rec, itr) (str is palindrome => if str == reverse(str))
+
+    3.7) Longest palindromic string (2 ways) (tabulation thought process) (must read soln)
+    https://leetcode.com/problems/longest-palindromic-subsequence/description/    
+
+    3.8) min deletions to make a string a palindrome
+
+    3.9) Shortest Common Supersequence (print) (2 approach)
+    https://leetcode.com/problems/shortest-common-supersequence
+    
+    3.10) Longest Repeating Subsequence (print + length)
+    https://practice.geeksforgeeks.org/problems/longest-repeating-subsequence2004 
+
+    3.11) pattern matching
+    https://leetcode.com/problems/is-subsequence/description/
+
+    3.12) min insertions to make a string a palindrome (lps based)
+
+
+
+MATRIX CHAIN MULTIPLCIATION
+    4) matrix chain multiplication (hard) (redo)
