@@ -83,3 +83,9 @@ https://leetcode.com/problems/find-subarrays-with-equal-sum/description/
 
 29) Maximum Product Subarray
 https://leetcode.com/problems/maximum-product-subarray/description/
+
+30) 3rd largest number (theory for nth largest)
+https://practice.geeksforgeeks.org/problems/third-largest-element
+
+31) count subarray mean eq to k (same count subarray sum = k)
+https://www.geeksforgeeks.org/count-of-subarrays-with-average-k/
