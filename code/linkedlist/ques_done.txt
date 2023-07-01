@@ -1,0 +1,21 @@
+1) representation of linked list
+
+2) merge two sorted linked list
+https://leetcode.com/problems/merge-two-sorted-lists
+
+3) Remove Duplicates from Sorted List (cmp 2 elements) (itr.next)
+https://leetcode.com/problems/remove-duplicates-from-sorted-list/
+
+4) remove by value
+
+
+5) reverse a list (itr) (rec)
+https://leetcode.com/problems/reverse-linked-list/
+
+6) middle of linked list (2 approach) (fast and slow)
+https://leetcode.com/problems/middle-of-the-linked-list
+
+7) remove the nth node from the end of the linked list (fast and slow p)
+
+8) remove a node by modifying it (O(1) soln)
+https://leetcode.com/problems/delete-node-in-a-linked-list/

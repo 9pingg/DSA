@@ -1,0 +1,4 @@
+when removing an element always check for base case pos == 0
+also the loop condition is generally while itr.next: in this case
+
+think about fast and slow pointer, they are used in many solns eg: middle of list, remove nth node from end, and many more
