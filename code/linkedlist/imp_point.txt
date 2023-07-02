@@ -2,3 +2,32 @@ when removing an element always check for base case pos == 0
 also the loop condition is generally while itr.next: in this case
 
 think about fast and slow pointer, they are used in many solns eg: middle of list, remove nth node from end, and many more
+
+remember we add a dummy node to head, in the nth node remove question
+
+generally in question involving cycle or common nodes hashing can be used: intersection of list, cycle in list
+
+
+
+
+
+
+
+
+string important functions
+
+1) stoi(), stoll() converts string to long long
+2) max(string a, string b) max function could be used to compare strings like "123", "132" it returns "132"
+3) delete a particular index s.erase(s.begin() + pos)
+4)  str.substr(pos, len)
+Copying of string starts from pos and is done till pos+len means [pos, pos+len).
+"12345678" and we need two substrings such that 4 is removed "123" and "5678"
+do this : (WRONG) s.substr(s.begin(), s.begin()+3) + s.substr(s.begin()+4, s.end()) or just s.substr(s.begin()+4)
+
+NOTE: substr doesnt take iterators
+
+So, instead of s.begin() just put 0 s.substr(0, 0+3) + s.substr(0+4, s.end()) or just s.substr(0+4)
+
+
+https://leetcode.com/discuss/interview-question/2393557/Microsoft-most-asked-Interview-questions
+

@@ -15,7 +15,13 @@ https://leetcode.com/problems/reverse-linked-list/
 6) middle of linked list (2 approach) (fast and slow)
 https://leetcode.com/problems/middle-of-the-linked-list
 
-7) remove the nth node from the end of the linked list (fast and slow p)
+7) remove the nth node from the end of the linked list (fast and slow p, improve t from o(2n) to o(n)) 
 
 8) remove a node by modifying it (O(1) soln)
 https://leetcode.com/problems/delete-node-in-a-linked-list/
+
+9) add two numbers (very similar to merge two sorted list)
+https://leetcode.com/problems/add-two-numbers/
+
+10) Intersection of Two Linked Lists
+https://leetcode.com/problems/intersection-of-two-linked-lists/

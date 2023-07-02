@@ -29,3 +29,5 @@ def removeElements(self, head: Optional[ListNode], val: int) -> Optional[ListNod
         else:
             itr = itr.next
     return res.next
+
+
