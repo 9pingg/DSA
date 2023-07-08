@@ -140,6 +140,23 @@ than or equal to the values in the children of that node. Mapping the elements o
 into an array is trivial: if a node is stored an index k, then its left child is stored 
 at index 2k + 1 and its right child at index 2k + 2.
 */
+
+// how to write a comparator for priority queue
+// cmp is always a boolean function, and takes in two parameters of the same type
+// if we return true that means a comes before b meaning a is less than b
+struct cmp{
+    bool operator() (type a, type b){
+        return a < b;
+    }
+};
+// cmp is structure which has bool operator()
+// using this cmp priority_queue<type, vector<type>, cmp> pq;
+
+// normal cmp for sort function
+bool cmp(type a, type b){
+    return a < b;
+}
+
 void using_pq(){ 
     priority_queue<int> pq; // max heap
     pq.push(1); // O(log n) as we need to reset the tree when element is inserted such that top elemetn could be accessed in O(1)

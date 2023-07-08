@@ -11,10 +11,13 @@ def hasCycle(self, head: Optional[ListNode]) -> bool:
     # no node means no cycle so return false
     if head is None: return False
     # even if there is one node there can be a cycle
+    if head is None: return False
+    # even if there is one node there can be a cycle
     s = head # starts at pos 0
-    f = head.next # starts at pos 1
+    f = head # starts at pos 0
     while f and f.next:
-        if s == f: return True
         s = s.next
         f = f.next.next
+        if s == f: return True
+        
     return False

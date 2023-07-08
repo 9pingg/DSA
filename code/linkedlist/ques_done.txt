@@ -25,3 +25,26 @@ https://leetcode.com/problems/add-two-numbers/
 
 10) Intersection of Two Linked Lists
 https://leetcode.com/problems/intersection-of-two-linked-lists/
+
+11) cycle linked list (s and f pointers dont start at same pos though)
+
+12) palindrome linked list (3 concepts used middle, reverse and compare two lists)
+
+13) reorder list (same as palindrome question almost) (has concepts of 3 prev ques) (middle, rev, merge list)
+LINKED LIST and ARRAY
+https://leetcode.com/problems/reorder-list/
+
+14) rotate list (not easy requires concepts from prev ques : find nth node)
+https://leetcode.com/problems/rotate-list/
+
+15) flattening of list
+https://practice.geeksforgeeks.org/problems/flattening-a-linked-list/
+
+16) linked list cycle entry point (two pointers) (hashing) (math)
+https://leetcode.com/problems/linked-list-cycle-ii
+
+17) merge k sorted lists (same question as flatten linked list)
+https://leetcode.com/problems/merge-k-sorted-lists
+
+18) Max Consecutive Ones
+https://leetcode.com/problems/max-consecutive-ones/description/
