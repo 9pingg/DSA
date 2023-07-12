@@ -1,0 +1,18 @@
+01 implementation of gen tree (child nodes taken as list)
+
+03 dfs traversal of binary tree (3 ways)
+
+04 insert in BST
+https://leetcode.com/problems/insert-into-a-binary-search-tree/
+
+05 delete node in BST
+https://leetcode.com/problems/delete-node-in-a-bst/
+
+06 search in BST
+https://leetcode.com/problems/search-in-a-binary-search-tree/
+
+07 kth largest element in a stream (min heap keep size of heap eq to k) (bst)
+https://leetcode.com/problems/kth-largest-element-in-a-stream/
+
+08 median of a stream (multiset) (bst) (2queues)
+https://leetcode.com/problems/find-median-from-data-stream/description/

@@ -1,0 +1,24 @@
+A tree data structure is a hierarchical structure that is used to represent and organize data in a way 
+that is easy to navigate and search. so complexity of seach and iterate is less than linear structures like list. 
+
+binary trees have at max 2 child nodes.
+
+tree: search, del, ins O(log(n))
+list: search o(n), ins and del o(1) when it known
+hash table: all o(1) if no collisions
+
+so tree is avg in all, but is best for heirarchical data and when data needs to be searched
+used in set(bst) multiset (rb), and map(rb)
+
+BST: binary search tree, bt with some order. generally all nodes left of root are less in value, and right nodes are more in value.
+It has no duplicates.
+In this we reduce search space by half everytime so search complexity is o(logn)
+
+2 ways of searching 
+1) bfs
+2) dfs
+    (position of left and right remain same, just the position of root node changes)
+    2.1 inorder search l root r
+    2.2 preoder search root l r 
+    2.3 postorder search l r root
+

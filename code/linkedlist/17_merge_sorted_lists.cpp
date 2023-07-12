@@ -1,4 +1,5 @@
-
+// same question as flatten linked list
+// o(n*m*log(n))
 struct cmp{
         bool operator() (ListNode* a, ListNode* b){
             if(a->val >= b->val){

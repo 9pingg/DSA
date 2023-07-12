@@ -1,0 +1,5 @@
+1) whenerver update is to be made in tree always make updates root.left = temp, not like this root = temp 
+
+2) bst search, del, ins is o(h) h = height of the tree
+
+3) set is binary search tree and multiset is self balancing bst
