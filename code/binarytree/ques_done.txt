@@ -1,5 +1,7 @@
 01 implementation of gen tree (child nodes taken as list)
 
+02 implementation of bst tree
+
 03 dfs traversal of binary tree (3 ways)
 
 04 insert in BST
@@ -16,3 +18,20 @@ https://leetcode.com/problems/kth-largest-element-in-a-stream/
 
 08 median of a stream (multiset) (bst) (2queues)
 https://leetcode.com/problems/find-median-from-data-stream/description/
+
+09 max depth or height of a tree is same
+https://leetcode.com/problems/maximum-depth-of-binary-tree
+
+10 check if tree balance (abs(l-r) <= 1 for balanced tree) (requires depth of left subtree and right subtree to get ans)
+https://leetcode.com/problems/balanced-binary-tree/description/
+
+11 diameter of tree (n ary tree also)
+(check every node find maximum value such that depth of l tree  + depth r tree = maximum)
+https://leetcode.com/problems/diameter-of-binary-tree/description/
+
+12 find two bt have indentical values (another type of dfs depth question) (many conditions to check)
+
+13 bfs zigzag (same question as bfs traversal using queue but here we use deque) 2 ways
+
+14 flatten a binary tree to linked list (HARD QUES) (some similairty to lca)
+https://leetcode.com/problems/flatten-binary-tree-to-linked-list/description/

@@ -22,3 +22,10 @@ In this we reduce search space by half everytime so search complexity is o(logn)
     2.2 preoder search root l r 
     2.3 postorder search l r root
 
+difference between heap and bst:
+
+1) heap is a complete binary tree (all leaf nodes at same level, and filled left to right)
+2) heap is not ordered like bst
+3) heap can have duplicate items but bst cannot
+4) inserting in bst can take max o(n) or o(h) if bst is chain like, but in heap it is always o(log(n))
+5) heapify is o(n). building a heap takes on o(n) from random n elements, but inserting an element to a heap takes log(n) just like bst

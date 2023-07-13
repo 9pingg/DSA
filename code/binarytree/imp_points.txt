@@ -3,3 +3,7 @@
 2) bst search, del, ins is o(h) h = height of the tree
 
 3) set is binary search tree and multiset is self balancing bst
+
+4) inorder traversal of bst = get values in sorted order
+
+5) all traversals are o(n) and s: o(h)
