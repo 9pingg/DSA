@@ -29,3 +29,4 @@ difference between heap and bst:
 3) heap can have duplicate items but bst cannot
 4) inserting in bst can take max o(n) or o(h) if bst is chain like, but in heap it is always o(log(n))
 5) heapify is o(n). building a heap takes on o(n) from random n elements, but inserting an element to a heap takes log(n) just like bst
+

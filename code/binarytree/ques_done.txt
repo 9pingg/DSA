@@ -35,3 +35,33 @@ https://leetcode.com/problems/diameter-of-binary-tree/description/
 
 14 flatten a binary tree to linked list (HARD QUES) (some similairty to lca)
 https://leetcode.com/problems/flatten-binary-tree-to-linked-list/description/
+
+15) left view of tree (2 aprroach) (rec) (level order based) (first node of level)
+https://practice.geeksforgeeks.org/problems/left-view-of-binary-tree
+
+16) right view of tree (2 aprroach) (queue aproach) (last node of level)
+https://leetcode.com/problems/binary-tree-right-side-view/description/
+
+17) max width of a tree
+
+18) boundary traversal of tree (3 parts) (hard ques)
+https://www.codingninjas.com/studio/problems/boundary-traversal_790725?leftPanelTab=1
+
+19) children sum property (p == p.left + p.right) (easy)
+https://www.codingninjas.com/studio/problems/children-sum-property_8357239
+
+vertical (no sort), top view and bottom view are almost the same code.
+
+20) vertical order traversal of tree (hard specially on leetcode where sort values if row and col is same) (BFS)
+https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/description/
+
+21) top view of tree (map)
+https://practice.geeksforgeeks.org/problems/top-view-of-binary-tree/1
+
+22) bottom view of tree 
+https://practice.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1
+
+23) symmetric tree (check if two trees are mirror)
+https://leetcode.com/problems/symmetric-tree
+
+24) print all paths from root to leaf

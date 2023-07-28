@@ -7,3 +7,10 @@
 4) inorder traversal of bst = get values in sorted order
 
 5) all traversals are o(n) and s: o(h)
+
+6) travesal: vertical, bottom, and top are based on lines (divide nodes by columns) (modified queue entry) 
+
+7) when nodes are to be appended in a list, such that bottom nodes appear earlier in list. use recursion go root.left 
+   till none, then add nodes on way back to the root
+
+8) MAX WIDTH QUE have queue_node (modified queue entry)

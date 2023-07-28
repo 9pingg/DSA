@@ -89,3 +89,21 @@ https://practice.geeksforgeeks.org/problems/third-largest-element
 
 31) count subarray mean eq to k (same count subarray sum = k)
 https://www.geeksforgeeks.org/count-of-subarrays-with-average-k/
+
+32) merge two sorted arrays (two arr given n+m, m) (s:o(1))
+https://leetcode.com/problems/merge-sorted-array/description/
+
+33) unique paths 
+https://leetcode.com/problems/unique-paths/description/
+
+34) find duplicate number (entry point of cycle)
+https://leetcode.com/problems/find-the-duplicate-number/description/
+
+35) 3sum (sort) (2 pointer) o(n * n/2)
+https://leetcode.com/problems/3sum/
+
+36) 4sum (sort) (2 pointer) o(n*n*n/2) ksum = o(n^k-1)
+https://leetcode.com/problems/4sum/description/
+
+37) 4sum 2 (map)
+https://leetcode.com/problems/4sum-ii/description/
