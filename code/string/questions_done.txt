@@ -1,0 +1,5 @@
+1) is anagram (easy) (uses only one count arr)
+
+
+2) group anagrams (counting sort) 
+https://leetcode.com/problems/group-anagrams

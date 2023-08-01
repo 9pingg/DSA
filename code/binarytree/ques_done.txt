@@ -65,3 +65,18 @@ https://practice.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1
 https://leetcode.com/problems/symmetric-tree
 
 24) print all paths from root to leaf
+
+25) binary tree infect
+https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/
+
+26) nodes at k distance from target (make child to parent connection same as before) (dic for c to p mapping) (dic for visited nodes)
+https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/
+
+27) preorder and inorder to make binary tree
+https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
+
+28) postorder and inorder to make bt
+https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/
+
+29) max path sum (diameter of the bt or max height of bt)
+https://leetcode.com/problems/binary-tree-maximum-path-sum/

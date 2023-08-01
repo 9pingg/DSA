@@ -14,3 +14,8 @@
    till none, then add nodes on way back to the root
 
 8) MAX WIDTH QUE have queue_node (modified queue entry)
+9) constructing a unique bt from traversals given?
+
+   pre and post order given no unique bt can be constructed
+   inorder is needed for it to be unique.
+   so pre and inorder, post and inorder can be used to construct unique bts.

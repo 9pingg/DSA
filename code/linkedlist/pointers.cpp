@@ -34,4 +34,11 @@ int32_t main() {
     cout << b << endl;
     b = b + 1; // increments the address by 4 bytes
     cout << b << endl;
+    // difference between int &a, int *a 
+    // when you have a &something you have a reference and this is nothing more 
+    // than a pointer which cannot change. In other words, it is a const pointer, so basically it’s like
+    int x = 1;
+    int &aa = x;
+    int *bb = &x;
+    cout << aa << " " << *bb;
 }

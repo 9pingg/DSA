@@ -1,0 +1,5 @@
+1) Find median in a stream of running integer (hard uses two pq's)
+https://leetcode.com/problems/find-median-from-data-stream/
+
+2) K-th largest element in a stream.
+https://leetcode.com/problems/kth-largest-element-in-a-stream/

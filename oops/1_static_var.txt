@@ -1,0 +1,26 @@
+https://www.geeksforgeeks.org/static-variables-in-c/
+1) A static int variable remains in memory while the program is running. A normal or auto variable is destroyed when a function call where the variable was declared is over. 
+2) only intialized once (ONLY ONCE) (if no val given ini to 0)
+3) Static variables are allocated memory in the data segment, not the stack segment. See the memory layout of C programs for details.
+4) Static variables should not be declared inside a structure, as structure are continous in nature
+though it is possible for entire structure to be static
+5) static data members do not contribute in size of an object. 
+Static local variable (defined inside a class)= class variable 
+Visibility: inside class
+Lifetime: till termination of program (can be used everytime class is called)
+Default value:0
+Storage: data segment
+
+Local Variable
+Visibility: class
+Lifetime: until execution of class
+Default value:garbage
+Storage:stack
+
+Global variable
+Visibility: file
+Lifetime: till termination of program
+Default value:0
+Storage: data segment
+
+static function Visibility is only in file, global functions can be accesesd from other files.

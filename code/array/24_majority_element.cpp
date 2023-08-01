@@ -20,6 +20,9 @@ vector<int> majorityElement(vector<int>& nums) {
 // Moore Majority Vote algorithm set majority element if next cval same inc counter if not dec counter
 // here we can have 2 elements so we take two counters 
 
+// in majority element  > (n/2), count var was dec whenever an element came which was not eq to m at that time.
+// here if nums[i] == m1  or m2, then count1 and count2 both are not dec
+
 vector<int> majorityElement(vector<int>& nums) {
         vector<int> res;
         int count1 = 0;
